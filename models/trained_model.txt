@@ -1,0 +1,5 @@
+Model are trained as follows
+LSTM
+RandomForest
+Transformer
+XGBoost
